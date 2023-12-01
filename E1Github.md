@@ -34,15 +34,15 @@ Next, I create a file named E1Github.md:
 touch E1Github.md
 ```
 ## Step 6: Commit and Push the Changes
-
-
-
+To add the file in the repositary:
 ```bash
 git add E1Github.md
 ```
+To add "coments" about the repositary:
 ```bash
 git commit -m "Process Github"
 ```
+To upload the repository to github:
 ```bash
 git push origin main
 ```
