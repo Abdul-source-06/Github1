@@ -24,7 +24,7 @@ git clone https://github.com/Abdul-source-06/-Github.git
 
 ## 4. Add a file named E1Github.md
 
-Now, I change to the repository directory:
+Now we go to the cloned repository:
 
 ```bash
 cd /c/Users/ahsch/Github1
