@@ -12,5 +12,5 @@ And in the following image you can see that we have cloned it correctly:
 
 ![Alt text](image-3.png)
 
- 
+ The final step would be to do the "commit" and "push".
 
